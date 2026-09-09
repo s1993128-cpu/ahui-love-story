@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "baseUrl": "https://s1993128-cpu.github.io/ahui-love-story/dlc/",
+  "stages": {
+    "11600": {
+      "title": "11600・叭他，然後下來輸贏！",
+      "image": "11600/cg.png",
+      "audio": [
+        "11600/fight.aac",
+        "11600/horn.aac"
+      ]
+    }
+  }
+}
