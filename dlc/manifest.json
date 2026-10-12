@@ -1,19 +1,37 @@
+
 {
-  "version": 1,
+  "version": 2,
   "baseUrl": "https://s1993128-cpu.github.io/ahui-love-story/dlc/",
   "stages": {
     "11600": {
-      "title": "11600・叭他，然後下來輸贏！",
-      "image": "11600/cg.png",
-      "audio": [
-        "11600/fight.aac",
-        "11600/horn.aac"
+      "title": "叭他，然後下來輸贏",
+      "files": [
+        {
+          "name": "cg.png",
+          "url": "11600/cg.png",
+          "type": "image"
+        },
+        {
+          "name": "horn.aac",
+          "url": "11600/horn.aac",
+          "type": "audio"
+        },
+        {
+          "name": "fight.aac",
+          "url": "11600/fight.aac",
+          "type": "audio"
+        }
       ]
     },
-    "11800": {
-      "title": "11800・會腳趾分裂的怪怪",
-      "image": "11800/cg.png",
-      "audio": []
+    "12500": {
+      "title": "廁所清潔事件",
+      "files": [
+        {
+          "name": "cg.png",
+          "url": "12500/cg.png",
+          "type": "image"
+        }
+      ]
     }
   }
 }
